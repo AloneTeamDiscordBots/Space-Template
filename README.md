@@ -1,3 +1,4 @@
-# Bu Template Yani Tema Tamamen Nowax'ındır
+plate-box
+=========
 
-[Youtube](https://bit.ly/techlav)
+HTML5 boiler plat with bootstrap support and fontawesome support... Included semantic HTML :P
